@@ -1,2 +1,14 @@
-@startuml common
 !define buttonDisabled(x) [<color:LightGray>x</color>]
+
+skinparam mode dark
+skinparam backgroundColor #000000
+skinparam shadowing false
+skinparam defaultFontColor #FFFFFF
+skinparam defaultTextAlignment center
+
+<style>
+saltDiagram {
+    BackgroundColor #000000
+    LineColor #FFFFFF
+}
+</style>
