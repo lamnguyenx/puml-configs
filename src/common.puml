@@ -1,0 +1,2 @@
+@startuml common
+!define buttonDisabled(x) [<color:LightGray>x</color>]

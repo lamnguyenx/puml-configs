@@ -1,0 +1,6 @@
+@startuml example
+!include ../src/common.puml
+
+rectangle "Enabled Button"
+buttonDisabled(Disabled Button)
+@enduml
